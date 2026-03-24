@@ -66,6 +66,3 @@ Install as needed in your environment:
 - `pymysql` (MySQL)
 - `pyodbc` (SQL Server)
 
-## License
-
-This project is released under the MIT License. See `LICENSE` for details.
